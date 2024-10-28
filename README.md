@@ -43,8 +43,6 @@ Hello! I am a full-stack developer with a passion for building management system
 
 #
 
-### 🤩 My personl project
-
 ### 🤩 My Personal Projects
 
 [💪 Focus Boost](https://focus-boost.vercel.app/)  
