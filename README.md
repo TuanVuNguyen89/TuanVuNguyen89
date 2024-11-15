@@ -43,16 +43,6 @@ Hello! I am a full-stack developer with a passion for building management system
 
 #
 
-### 🤩 My Personal Projects
-
-[💪 Focus Boost](https://focus-boost.vercel.app/)  
-![Focus Boost](./focus-boost.png)
-
-[👨‍💻 FU Online Judge](https://fuoj.tech/)  
-![FU Online Judge](./fu-onlinejudge.png)
-
-#
-
 <details>
   <summary><h3> 🧑‍💻 ntuanvu89's Coding Journey</h3></summary>
   <p>
